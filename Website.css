@@ -1,0 +1,26 @@
+body{
+	background-color:;
+}
+.one{
+	text-shadow:5px 5px blue;
+	text-decoration:overline;
+	text-align:center;
+	text-transform:upper;
+	border:20px dotted red;
+	font-family:algerian;
+	font-size:60px;
+}
+#girl{
+	color:green;
+	background-color:white;
+font-size:20px
+}
+div{
+	background-color:red;
+	color:cyan;
+	font-size:35px;
+}
+
+
+	
+	
